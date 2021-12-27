@@ -1,4 +1,21 @@
-### Hi there 👋
+# This is Mi 👋
+✔ Dankook University (4th grade now)
+
+    - Python, C/C++, Java
+
+    - Flask, Node JS
+
+    - Webix, HTML
+
+    - MySQL
+
+
+✔ I'm interested in Backend, and DID.
+
+<hr>
+
+## Projects...
+
 
 <!--
 **kmi0817/kmi0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
