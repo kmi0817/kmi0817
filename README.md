@@ -5,7 +5,7 @@
 
     - Flask, Node JS
 
-    - Webix, HTML
+    - Webix, JavaScript, HTML
 
     - MySQL
 
