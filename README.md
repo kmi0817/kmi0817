@@ -42,14 +42,15 @@
 
 ### ✔ Commit Message Rule (from 2022-03-09)
 
-- Prefix
-  ```
-  post: create a file, directory, etc.
-  remove: delete a file, directory, etc.
-  fix: fix a bug
-  improve: make better
-  refactor: make code organized (functions are the same)
-  test: testing code related
-  docs: documents related
-  style: related to expression, apperance
-  ```
+#### Prefix
+- post: create a file, directory, etc.
+- remove: delete a file, directory, etc.
+- fix: fix a bug
+- perf: make better
+- refactor: make code organized (functions are the same)
+- test: testing code related
+- docs: documents related
+- style: related to expression, apperance
+- build: realted to dependencies
+- chore: updates that don't matter or affect anything
+- revert: revert the previous commit
