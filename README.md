@@ -16,27 +16,27 @@
 
 ### 1. Renewal of 한국여성의집's homepage
 
-    - 한국여성의집 is a korean social enterprise that helps women in need
-    - 3 members (including me) worked together
-    - I used `PHP`, `JavaScript` to connect web server and web browser
+- 한국여성의집 is a korean social enterprise that helps women in need
+- 3 members (including me) worked together
+- I used `PHP`, `JavaScript` to connect web server and web browser
 
 ### 2. DID - IRB, Researcher, Provider, Consumer
 
-    - Check code from ***[siteCodeupdate](https://github.com/kmi0817/siteCodeupdate/) ✔***
-    - The University Lab's project
-    - I used `Hyperledger Fabric API`, `Flask`, `Webix`, `Docker`
+- Check code from ***[siteCodeupdate](https://github.com/kmi0817/siteCodeupdate/) ✔***
+- The University Lab's project
+- I used `Hyperledger Fabric API`, `Flask`, `Webix`, `Docker`
 
 ### 3. Issuing Reliable Credential Web Service using DID
 
-    - Check code from ***[capstone_credential](https://github.com/kmi0817/capstone_credential) ✔***
-    - Capstone Project from the university
-    - I used `Hyperledger Fabric API`, `Flask`, `Webix`, `Docker`, `SQLAlchemy`
+- Check code from ***[capstone_credential](https://github.com/kmi0817/capstone_credential) ✔***
+- Capstone Project from the university
+- I used `Hyperledger Fabric API`, `Flask`, `Webix`, `Docker`, `SQLAlchemy`
 
 ### 4. Nearby Hospital Search Web Service
 
-    - Check code from ***[Nodejs_mongoDB](https://github.com/kmi0817/Nodejs_mongoDB) ✔***
-    - Capstone Project2 from the university
-    - I used `Node.js`, `Mongoose`
+- Check code from ***[Nodejs_mongoDB](https://github.com/kmi0817/Nodejs_mongoDB) ✔***
+- Capstone Project2 from the university
+- I used `Node.js`, `Mongoose`
 
 ## ETC
 
