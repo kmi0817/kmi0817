@@ -40,10 +40,10 @@
 
 ## ETC
 
-### ✔ Commit Message Rule (from 2022-03-09)
+### ✔ Commit Message Rule (since 2022-03-09)
 
 #### Prefix
-- post: create a file, directory, etc.
+- feat: create a file, directory, etc.
 - remove: delete a file, directory, etc.
 - fix: fix a bug
 - perf: make better
