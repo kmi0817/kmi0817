@@ -35,7 +35,7 @@
 - Period: 2022.01 ~ 2022.06
 - Team: Frontend 1인 + Backend 1인
 - Role: Backend
-- GitHub: https://github.com/kmi0817/NaARa-Site
+- GitHub: https://github.com/kmi0817/Na-A-Ra
 - Stack: `Express`, `MongoDB`, `API`
 
 ### 4. DID 인증을 이용한 증명서 발급 서비스
