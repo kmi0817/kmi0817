@@ -10,7 +10,7 @@
 | Database | MySQL, MongoDB                         |
 | Frontend | JavaScript/TypeScript, HTML/CSS, Webix |
 
-## 🩷 Project
+## 💚 Project
 
 ### 1. 여행 일정을 타임라인으로 기록하고 공유하는 여행 SNS 서비스
 
