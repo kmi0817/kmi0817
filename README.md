@@ -23,7 +23,7 @@
 
 ### 2. 사회적 기업의 홈페이지 리뉴얼
 
-- Period: 2020.12 ~ 2021.03
+- Period: 2020.12 ~ 2021.02
 - Team: PM 1인 + Full Stack 2인
 - Role: Full Stack
 - GitHub: https://github.com/Bucky5683/WomensHompage (Private)
